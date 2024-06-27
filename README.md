@@ -1,5 +1,5 @@
 # Product_Portfolio
 Product_Portfolio
 
-Build a Customer Persona of Your Choice
-In this assignment, you will use a template to build a persona for a product of the company you work at (or any other company of your choice). 
+1. Build a Customer Persona of Your Choice,
+In this assignment, I used a template to build a persona for a product of the company Flatmate Finder app.
